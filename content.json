@@ -1,0 +1,35 @@
+{
+    "items": [
+      {
+        "id": 1,
+        "title": "Warszawa",
+        "content": "<p>Warszawa, stolica Polski, została prawie całkowicie zniszczona podczas II wojny światowej i odbudowana po wojnie. Obecnie jest największym miastem w Polsce.</p>"
+      },
+      {
+        "id": 2,
+        "title": "Kraków",
+        "content": "<p>Kraków jest jednym z najstarszych miast w Polsce i był stolicą Polski do 1596 roku. Znajduje się tam słynny Wawel i Rynek Główny, największy średniowieczny rynek w Europie.</p>"
+      },
+      {
+        "id": 3,
+        "title": "Gdańsk",
+        "content": "<p>Gdańsk jest ważnym portem morskim nad Bałtykiem. To tutaj rozpoczął się strajk w Stoczni Gdańskiej, który doprowadził do powstania Solidarności i ostatecznie przyczynił się do upadku komunizmu w Europie Środkowej.</p>"
+      },
+      {
+        "id": 4,
+        "title": "Wrocław",
+        "content": "<p>Wrocław jest miastem o bogatej historii, które było pod panowaniem różnych państw, w tym Polski, Czech, Austrii, Prus i Niemiec. Znajduje się tam piękna Hala Stulecia, wpisana na listę UNESCO.</p>"
+      },
+      {
+        "id": 5,
+        "title": "Poznań",
+        "content": "<p>Poznań jest jednym z najstarszych miast w Polsce i jest znany z katedry na Ostrowie Tumskim oraz z Międzynarodowych Targów Poznańskich, które są jednymi z największych targów w Europie Środkowej.</p>"
+      },
+      {
+        "id": 6,
+        "title": "Zakopane",
+        "content": "<p>Zakopane, znane jako zimowa stolica Polski, jest popularnym ośrodkiem turystycznym w Tatrach. Znajduje się tam najwyższy szczyt Polski - Rysy.</p>"
+      }
+    ]
+  }
+  

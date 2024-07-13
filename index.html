@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Zadanie Rekrutacyjne</title>
+  <link rel="icon" href="favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <a href="/"><img src="https://raw.githubusercontent.com/kbrudz/frontend_test/blob/master/image.png" alt="HTML5 Logo"></a>
+    <h1>Zadanie <span class="rekrutacyjne">rekrutacyjne</span></h1>
+  </header>
+  <div class="header-wrapper">
+    <h1 class="header-text">Nagłówek H1</h1>
+  </div>
+  <main>
+    <section class="block block-first">
+      <h2>Blok pierwszy</h2>
+      <label><input type="radio" name="option" value="option1"> Opcja pierwsza</label>
+      <label><input type="radio" name="option" value="option2"> Opcja druga</label>
+      <label><input type="radio" name="option" value="random"> Opcja losowa</label>
+    </section>
+    <section class="block block-second">
+      <h2>Blok drugi</h2>
+      <button id="replace">ZASTĄP</button>
+      <button id="append">DOKLEJ</button>
+    </section>
+    <section class="block block-third">
+      <h2>Blok z długą nazwą która sama się przytnie ...</h2>
+      <div id="content">
+        <!-- Dynamic content will be inserted here -->
+      </div>
+    </section>
+  </main>
+  <footer>
+    <div class="footer-left">
+      <div class="logo">
+        <p><span>CSS</span><span>IS</span><span>AWESOME</span></p>
+      </div>
+    </div>
+    <div class="dropdown">
+      <button id="show" class="dropdown-toggle">POKAŻ <span>&#x25BC;</span></button>
+      <div class="footer-frame" style="display: none;">
+        <button_1 id="reset" class="frame-button">> Zresetuj ustawienia</button_1>
+        <button_1 id="add-name" class="frame-button">> Pokaż dane osobowe</button_1>
+      </div>
+    </div>
+  </footer>
+  <script src="script.js"></script>
+</body>
+</html>
